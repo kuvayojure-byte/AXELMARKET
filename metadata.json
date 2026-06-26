@@ -1,0 +1,6 @@
+{
+  "name": "AxelMarket",
+  "description": "Une marketplace simple, rapide et légère pour acheter et vendre des produits au Burundi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
